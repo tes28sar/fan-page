@@ -1,0 +1,25 @@
+#h{
+    text-align: center;
+    top: 200px;
+}
+h1{
+    color: gold;
+} 
+#img1{
+    
+    width: 400px;
+    float: right;
+    
+}
+
+p{
+    color: blue;
+}
+
+body{
+    background-color: black;
+}
+
+footer{
+    background-color: blue;
+}
